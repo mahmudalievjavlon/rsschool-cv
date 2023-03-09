@@ -1,1 +1,2 @@
-https://mahmudalievjavlon.github.io/rsschool-cv/cv
+https://mahmudalievjavlon.github.io/rsschool-cv/
+
