@@ -2,7 +2,7 @@
 ## Junior frontend developer
 ### Contacts:
 phone +998931125637\
-email igoralenco@gmail.com\
+email mahmudalievj@gmail.com\
 ## Briefly about myself:
 I am 17 years old. Senior year student. I know Python programming language and curious to learn frontend too to create astounding apps myself.
 ## Skills:
